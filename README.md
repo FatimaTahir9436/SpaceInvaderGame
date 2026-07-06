@@ -38,7 +38,7 @@ A retro-inspired **Space Invaders** game developed in **C++** for Windows using 
 ## 📂 Project Structure
 
 ```text
-main.cpp          # Main game logic
+24L-0833.cpp          # Main game logic
 help.h            # Graphics and input helper functions
 game_save.txt     # Saved game state (generated automatically)
 highScore.txt     # High-score records (generated automatically)
